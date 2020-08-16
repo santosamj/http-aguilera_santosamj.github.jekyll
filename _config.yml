@@ -49,10 +49,10 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-[code lang=text]
 markdown: kramdown
 highlighter: rouge
-[/code]
+pereslink: /:title/
+
 
 version: v1.2.0
 
