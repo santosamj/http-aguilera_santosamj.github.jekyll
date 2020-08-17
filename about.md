@@ -22,7 +22,4 @@ De esta forma, cualquier error de diseño detectado en la etapa de prueba conduc
 
 
 
-
-
-
-[santosn1235@gmail.com]
+[email@domain.com](mailto:santosn1235@gmail.com)
