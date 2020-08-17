@@ -15,4 +15,8 @@ Hice mi servicio militar a los 18 años en la base naval San Eduardo del tiempo 
 Mis estudios secundarios los curse en el colegio Dr. Miguel Donoso Pareja en dicha estitucion curse mis tres años de bachiller y me gradue con en titulo de contabilidad.
 
 
+Luego de dos años aplique para el examen ser bachiller  y escogi la carrera de software como una de mis primeras opciones porque siempre me llamo la atencion la tegnologia.
+
+
+
 (https://github.com/santosamj/santosamj.github.)
