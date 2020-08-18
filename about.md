@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[santosn1235@gmail.com] (mailto:santosn1235@gmail.com)
+[santosn1235@gmail.com] 
