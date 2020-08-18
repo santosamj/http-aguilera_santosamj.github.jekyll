@@ -29,6 +29,8 @@
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/acerca-de">Acerca de</a>
+            
+            
           </nav>
         </header>
       </div>
@@ -41,6 +43,16 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
+          <h4><a href="{{ site.baseurl }}/archive/">Archivo</a> | Temas: <a href="{{ site.baseurl }}/categories/blogpocket">Blogpocket</a> - <a href="{{ site.baseurl }}/categories/ideas">Ideas</a> - <a href="{{ site.baseurl }}/categories/personal">Personal</a> - <a href="{{ site.baseurl }}/categories/proyectos">Proyectos</a></h4>
+          {% include svg-icons.html %}
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
+
           {% include svg-icons.html %}
         </footer>
       </div>
