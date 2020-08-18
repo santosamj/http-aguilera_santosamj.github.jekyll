@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Acerca de
-permalink: /Acerca de/
+permalink: /acerca-de/
 ---
 
-¡Mi nombre es Santos Joel Aguilera Martinez y este es mi Blog personal!
+Mi nombre es Santos Joel Aguilera Martinez y este es mi Blog persona
 
 ### Mas informacion
 
