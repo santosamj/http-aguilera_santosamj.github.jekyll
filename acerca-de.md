@@ -4,7 +4,7 @@ title: Acerca de
 permalink: /acerca-de/
 ---
 
-Mi nombre es Santos Joel Aguilera Martinez y este es mi Blog personal.
+Mi nombre es Santos Joel Aguilera Martinez y este es mi Blog Personal.
 
 ### Mas informacion
 
