@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="posts">
+  <!-- This loops through the paginated posts -->
   {% for post in site.posts %}
     <article class="post">
 
@@ -12,7 +13,7 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="sigue-leyendo">Sigue Leyendo</a>
     </article>
   {% endfor %}
 </div>
