@@ -68,7 +68,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :comprimido
+  style:  extendido
 
 # Use the following plug-ins
 gems:
