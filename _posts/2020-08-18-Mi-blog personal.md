@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: ¿Que es la Nanorrobotica?
+title: ¿Que es la Nanorrobótica?
 ---
 
 
