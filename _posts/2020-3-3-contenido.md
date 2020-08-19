@@ -1,15 +1,13 @@
 ---
 published: true
 layout: post
-image: /imagenes/ 08-contenido.jpg
+
 author: Santos Aguilera
 categories: blogpocket
 title: ¿Que es la Red 5G?
 ---
 
 La próxima generación de tecnología celular viene con su propio vocabulario. Así que aquí te dejamos un glosario muy útil de los términos clave que aparecen todos los días.
-
-![Que es la red 5G]({{site.baseurl}}/images/08-contenido.jpg)
 
 La próxima generación de tecnología inalámbrica, conocida como 5G, está a la vuelta de la esquina, y promete cambiar nuestras vidas para siempre.
 
